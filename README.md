@@ -1,5 +1,5 @@
 # 💫 About Me:
-A tech enthusiast who loves to create new things!<br>Currently pursuing a computer science undergraduate at the University of Westminster UK.
+A tech enthusiast who loves to create new things!<br>Currently pursuing BSc. Computer science at the University of Westminster UK.
 
 
 ## 🌐 Socials:
