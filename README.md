@@ -1,5 +1,7 @@
 # 💫 About Me:
 A tech enthusiast who loves to create new things!<br>Currently pursuing BSc. Computer science at the University of Westminster UK.
+
+
 <a href="https://app.daily.dev/Thamash"><img src="https://api.daily.dev/devcards/52a0bdc1b42846c09349318fb7794993.png?r=fum" width="400" alt="Purindu Weerawardana's Dev Card"/></a>
 
 ## 🌐 Socials:
