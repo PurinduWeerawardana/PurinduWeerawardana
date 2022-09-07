@@ -1,14 +1,15 @@
 # 💫 About Me:
 A tech enthusiast who loves to create new things!<br>Currently pursuing BSc. Computer science at the University of Westminster UK.
 
-
-<a href="https://app.daily.dev/Thamash"><img src="https://api.daily.dev/devcards/52a0bdc1b42846c09349318fb7794993.png?r=fum" width="400" alt="Purindu Weerawardana's Dev Card"/></a>
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010474304661)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thamash.w)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Purindu-Weerawardana) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PurinduW) 
+
+
+<a href="https://app.daily.dev/Thamash"><img src="https://api.daily.dev/devcards/52a0bdc1b42846c09349318fb7794993.png?r=fum" width="400" alt="Purindu Weerawardana's Dev Card"/></a>
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
