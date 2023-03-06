@@ -8,9 +8,6 @@ A tech enthusiast who loves to create new things!<br>Currently pursuing BSc. Com
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PurinduW) 
 
 
-<a href="https://app.daily.dev/Thamash"><img src="https://api.daily.dev/devcards/52a0bdc1b42846c09349318fb7794993.png?r=fum" width="400" alt="Purindu Weerawardana's Dev Card"/></a>
-
-
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,6 +53,8 @@ A tech enthusiast who loves to create new things!<br>Currently pursuing BSc. Com
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+<a href="https://app.daily.dev/Thamash"><img src="https://api.daily.dev/devcards/52a0bdc1b42846c09349318fb7794993.png?r=fum" width="400" alt="Purindu Weerawardana's Dev Card"/></a>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PurinduWeerawardana&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
